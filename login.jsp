@@ -14,7 +14,7 @@
 <strong>password</strong><input type="password" name="p" placeholder="password"><br> <br>
 <input type="submit" value= "login"></center>
 <a href="signup.jsp"> <center>signup</center></a></center>
-<a href="update.jsp"> <center>forgetDetails</center></a></center>
+<a href="update.jsp"> <center>forgotuserDetails</center></a></center>
 <a href="delete.jsp"> <center>Deleteuser</center></a></center>
 
 </form>
